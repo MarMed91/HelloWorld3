@@ -1,0 +1,110 @@
+marko@markoVirtualBox:~$ cd /var/www/html/HelloWorld3
+marko@markoVirtualBox:/var/www/html/HelloWorld3$ npm run dev
+
+> HelloWorld3@1.0.0 dev /var/www/html/HelloWorld3
+> NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js
+
+ 98% after emitting SizeLimitsPlugin                                         
+
+ DONE  Compiled successfully in 13796ms                                                                                                                       12:13:32 AM
+
+             Asset      Size  Chunks             Chunk Names
+dist/css/style.css  43 bytes     mix  [emitted]  mix
+marko@markoVirtualBox:/var/www/html/HelloWorld3$ npm run dev
+
+> HelloWorld3@1.0.0 dev /var/www/html/HelloWorld3
+> NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js
+
+ 98% after emitting SizeLimitsPlugin                                         
+
+ DONE  Compiled successfully in 7684ms                                                                                                                        12:34:44 AM
+
+             Asset      Size  Chunks             Chunk Names
+dist/css/style.css  44 bytes     mix  [emitted]  mix
+marko@markoVirtualBox:/var/www/html/HelloWorld3$ npm run dev
+
+> HelloWorld3@1.0.0 dev /var/www/html/HelloWorld3
+> NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js
+
+ 98% after emitting SizeLimitsPlugin                                         
+
+ DONE  Compiled successfully in 7198ms                                                                                                                        12:40:05 AM
+
+             Asset      Size  Chunks             Chunk Names
+dist/css/style.css  43 bytes     mix  [emitted]  mix
+marko@markoVirtualBox:/var/www/html/HelloWorld3$ npm run dev
+
+> HelloWorld3@1.0.0 dev /var/www/html/HelloWorld3
+> NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js
+
+ 98% after emitting SizeLimitsPlugin                                         
+
+ DONE  Compiled successfully in 8091ms                                                                                                                        12:42:38 AM
+
+             Asset       Size  Chunks             Chunk Names
+dist/css/style.css  101 bytes     mix  [emitted]  mix
+marko@markoVirtualBox:/var/www/html/HelloWorld3$ npm run dev
+
+> HelloWorld3@1.0.0 dev /var/www/html/HelloWorld3
+> NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js
+
+ 98% after emitting SizeLimitsPlugin                                         
+
+ DONE  Compiled successfully in 7702ms                                                                                                                        12:50:10 AM
+
+             Asset       Size  Chunks             Chunk Names
+dist/css/style.css  151 bytes     mix  [emitted]  mix
+marko@markoVirtualBox:/var/www/html/HelloWorld3$ npm run dev
+
+> HelloWorld3@1.0.0 dev /var/www/html/HelloWorld3
+> NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js
+
+ 98% after emitting SizeLimitsPlugin                                         
+
+ DONE  Compiled successfully in 7919ms                                                                                                                        12:52:03 AM
+
+             Asset       Size  Chunks             Chunk Names
+dist/css/style.css  225 bytes     mix  [emitted]  mix
+marko@markoVirtualBox:/var/www/html/HelloWorld3$ npm run dev -- --watch
+
+> HelloWorld3@1.0.0 dev /var/www/html/HelloWorld3
+> NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js "--watch"
+
+ 10% building 1/1 modules 0 active                                           
+webpack is watching the files…
+
+ 98% after emitting SizeLimitsPlugin                                         
+
+ DONE  Compiled successfully in 6002ms                                                                                                                        12:57:52 AM
+
+             Asset       Size  Chunks             Chunk Names
+dist/css/style.css  225 bytes     mix  [emitted]  mix
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
